@@ -1,0 +1,10 @@
+*.parquet
+*.csv
+*__pycache__*
+Week1_Docker_Terraform/ny_taxi_postgres_data/
+*service_keys.json
+Week2_Workflow_Orchestration/airflow/logs/
+Week5_Batch_Processing/zones/
+
+
+
